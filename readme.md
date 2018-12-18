@@ -10,3 +10,7 @@
 1. 大部分元件都是符合 Bootstrap 格線設計，可開啟格線功能確認元件尺寸。
 2. 元件尺寸可以透過 Responsive Resize 輕鬆調整大小。
 3. 資產庫中包含 Bootstrap 中常用的主題色彩可直接運用。
+
+## License
+
+[MIT](LICENSE.txt) license.
