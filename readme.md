@@ -1,6 +1,6 @@
 
 
-![XD-ad-bs4-3.png]
+![](XD-ad-bs4-3.png)
 
 ## 如何使用
 
